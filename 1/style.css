@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2e354f;
+    font-size: 1.5em;
+    
+}
+
+ul{
+    font-size: 1.5em;
+
+}
+h1{
+    text-align: center;
+    background-color: rgb(7, 7, 59);
+    color: burlywood;
+    
+}
+
+h1, h3{
+    font-weight: bold;
+}
+h3{
+    
+    color: blanchedalmond;
+   
+} 
+
+h1{
+    font-size: 36px;
+}
+.list{
+    margin-left: 30%;
+}
+
+.container h3{
+    color: red; 
+}
+
+.section_2 h3{
+    background-color: rgb(7, 7, 59);
+    color: rosybrown;
+    text-align: center;
+}
+p{
+    background-color: grey;
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+}
